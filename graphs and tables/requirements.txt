@@ -1,0 +1,8 @@
+pandas==2.3.3
+black==25.9.0
+scipy==1.16.2
+matplotlib==3.10.6
+geopandas==1.1.1
+geodatasets==2024.8.0
+plotly==6.3.1
+kaleido==1.1.0
